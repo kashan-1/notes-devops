@@ -29,7 +29,3 @@ Run the previously pushed docker image
 docker run -p 80:80 kashan1/k-owncloud:v1
 ```
 
-
-``` bash
-
-```
